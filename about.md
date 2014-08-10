@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Esta es mi nueva página. Victor del Valle
+Esta es mi nueva página. Victor del Valle.
+ PUTA MADRE QUE LO PARIO
+ 
