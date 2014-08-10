@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Página de Victor</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://vicalle12.github.io/</link>
-    <atom:link href="http://vicalle12.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Victor</title>
+    <description>Página personal Victor</description>
+    <link>http://vicalle12.github.io//</link>
+    <atom:link href="http://vicalle12.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Desprevenidos</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi placerat nec nulla ut molestie. Morbi cursus erat non vehicula faucibus. Donec eleifend lorem sed gravida faucibus. Nunc ac nibh tempor, consectetur augue non, aliquet nibh. Morbi blandit consequat mattis. In quis augue nec purus interdum cursus. Ut turpis arcu, tristique a pretium vitae, pretium vel felis. Proin quis sapien et nisi varius scelerisque et vitae nisi. Donec eleifend, tellus pharetra varius pretium, nibh metus euismod velit, eu aliquet orci erat a massa. Quisque tempus turpis sed rhoncus ultrices. Etiam dictum nisl ac tincidunt pellentesque. Morbi a magna ipsum. Vestibulum justo nisl, rutrum sit amet scelerisque a, venenatis et metus. Duis elementum varius mi, eu tristique nulla. Aenean consequat consequat libero eu tristique.&lt;/p&gt;
+
+&lt;p&gt;Quisque dignissim ornare sodales. Duis convallis, nisl in lacinia sollicitudin, ipsum leo laoreet diam, vel porttitor orci purus semper tellus. Mauris aliquet nisl in felis convallis lacinia. In nec porta orci, a fermentum eros. Fusce quis venenatis turpis. Mauris viverra, arcu eget auctor semper, lorem augue pellentesque mi, non gravida ipsum felis in erat. Nam odio velit, bibendum sit amet odio quis, dictum euismod sem. Nam sed porttitor eros. Proin vel lobortis augue, ut consequat lorem. Pellentesque quis tortor ut risus suscipit sodales. Nunc et sollicitudin purus, eu venenatis augue. Aliquam ullamcorper purus id magna pretium dapibus.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://github.com/vicalle12/vicalle12.github.io&quot;&gt;vicalle12&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/vicalle12/vicalle12.github.io&quot;&gt;vicalle12 GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Aug 2014 23:47:02 +0200</pubDate>
+        <link>http://vicalle12.github.io//jekyll/update/2014/08/01/Desprevenidos/</link>
+        <guid isPermaLink="true">http://vicalle12.github.io//jekyll/update/2014/08/01/Desprevenidos/</guid>
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -23,8 +37,22 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Mon, 16 Jun 2014 23:47:02 +0200</pubDate>
-        <link>http://vicalle12.github.io/jekyll/update/2014/06/16/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://vicalle12.github.io/jekyll/update/2014/06/16/welcome-to-jekyll/</guid>
+        <link>http://vicalle12.github.io//jekyll/update/2014/06/16/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://vicalle12.github.io//jekyll/update/2014/06/16/welcome-to-jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Hola!</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi placerat nec nulla ut molestie. Morbi cursus erat non vehicula faucibus. Donec eleifend lorem sed gravida faucibus. Nunc ac nibh tempor, consectetur augue non, aliquet nibh. Morbi blandit consequat mattis. In quis augue nec purus interdum cursus. Ut turpis arcu, tristique a pretium vitae, pretium vel felis. Proin quis sapien et nisi varius scelerisque et vitae nisi. Donec eleifend, tellus pharetra varius pretium, nibh metus euismod velit, eu aliquet orci erat a massa. Quisque tempus turpis sed rhoncus ultrices. Etiam dictum nisl ac tincidunt pellentesque. Morbi a magna ipsum. Vestibulum justo nisl, rutrum sit amet scelerisque a, venenatis et metus. Duis elementum varius mi, eu tristique nulla. Aenean consequat consequat libero eu tristique.&lt;/p&gt;
+
+&lt;p&gt;Quisque dignissim ornare sodales. Duis convallis, nisl in lacinia sollicitudin, ipsum leo laoreet diam, vel porttitor orci purus semper tellus. Mauris aliquet nisl in felis convallis lacinia. In nec porta orci, a fermentum eros. Fusce quis venenatis turpis. Mauris viverra, arcu eget auctor semper, lorem augue pellentesque mi, non gravida ipsum felis in erat. Nam odio velit, bibendum sit amet odio quis, dictum euismod sem. Nam sed porttitor eros. Proin vel lobortis augue, ut consequat lorem. Pellentesque quis tortor ut risus suscipit sodales. Nunc et sollicitudin purus, eu venenatis augue. Aliquam ullamcorper purus id magna pretium dapibus.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 16 Jun 2014 23:47:02 +0200</pubDate>
+        <link>http://vicalle12.github.io//jekyll/update/2014/06/16/hola/</link>
+        <guid isPermaLink="true">http://vicalle12.github.io//jekyll/update/2014/06/16/hola/</guid>
       </item>
     
   </channel>

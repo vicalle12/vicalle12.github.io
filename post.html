@@ -1,0 +1,19 @@
+---
+layout: theme
+---
+
+
+<div class="post">
+
+  <h1 id="title">POSTS</h1>
+
+  <div class="posts">
+    {% for post in site.posts %}
+      <div class="box" onclick="location.href='{{ post.url | prepend: site.baseurl }}'; ">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
